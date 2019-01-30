@@ -4,7 +4,7 @@ namespace Properites
 {
 public class Person
     {
-        public DateTime Birthdate { get; set; }
+        public DateTime Birthdate { get; private set; }
 
         public int Age
         {

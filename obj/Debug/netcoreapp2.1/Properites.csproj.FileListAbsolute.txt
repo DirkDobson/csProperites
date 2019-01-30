@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/bin/Debug/netcoreapp2.1/Properites.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/bin/Debug/netcoreapp2.1/Properites.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/bin/Debug/netcoreapp2.1/Properites.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/bin/Debug/netcoreapp2.1/Properites.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/bin/Debug/netcoreapp2.1/Properites.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Properites/obj/Debug/netcoreapp2.1/Properites.pdb
